@@ -1,6 +1,6 @@
 {
   "name": "test-deploy",
-  "homepage": "https://juancr5.github.io/test-deploy",
+  "homepage": "http://juancr5.github.io/test-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
